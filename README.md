@@ -20,6 +20,8 @@ In this project, we have developed a village scenario using OpenGL. The scene in
 - Pressing 'R': Rain is simulated, creating a rainy scenario with appropriate visual effects.
 - Pressing 'M': Boat will move to left
 - Pressing 'N': Boat will move to right
+- pressing 'E': Will move the clouds
+- pressing 'S': Will make the flowers bloom
 
 The project aims to showcase our understanding of computer graphics concepts and our ability to create interactive scenes using OpenGL. It demonstrates our teamwork and skills in designing visually appealing scenarios.
 
