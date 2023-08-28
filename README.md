@@ -7,9 +7,7 @@ This project is part of our CSE423 Graphics Design course. The aim of this proje
 ## Team Members
 
 - S.M.ABRAR MUSTAKIM TAKI
-- Ananna Acharjee
 - Ashiqur Rahman Fahim
-- Fahim Ahamed
 
 ## Project Details
 
