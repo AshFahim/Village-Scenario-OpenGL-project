@@ -4,10 +4,6 @@
 
 This project is part of our CSE423 Graphics Design course. The aim of this project is to create an interactive village scenario using OpenGL, where various elements of the scene respond to user input.
 
-## Team Members
-
-- S.M.ABRAR MUSTAKIM TAKI
-- Ashiqur Rahman Fahim
 
 ## Project Details
 
